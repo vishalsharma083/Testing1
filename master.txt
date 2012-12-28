@@ -1,2 +1,6 @@
 this is a commit from F1.7
+<<<<<<< HEAD
 this is a commit from F1.8
+=======
+this is a hotfix.
+>>>>>>> hotfix/H1.1
