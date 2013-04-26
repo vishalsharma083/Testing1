@@ -6,3 +6,5 @@ this is a hotfix.
 feature 1 finished.
 
 feature 2 finished
+
+hotfix 1 finished.
