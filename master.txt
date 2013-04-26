@@ -4,9 +4,5 @@ this is a commit from F1.8
 this is a hotfix.
 
 feature 1 finished.
-=======
-test commit for tagging
 
-
-test2
->>>>>>> master
+feature 2 finished
