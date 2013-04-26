@@ -8,3 +8,5 @@ feature 1 finished.
 feature 2 finished
 
 hotfix 1 finished.
+
+directly doing something in develop branch.
